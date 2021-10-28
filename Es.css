@@ -1,0 +1,88 @@
+body {
+  background-image: url("background.jpg");
+  background-size: 101%;
+  height:1700px;
+
+}
+
+header {
+  color:lime;
+}
+
+.container{
+  size: 500px;
+  height: 1200px;
+  margin: 10px 200px 50px 500px ;
+  background-color:#00000080;
+
+}
+.image {
+  width:260px;
+  margin-top: 150px;
+  margin-left: 680px;
+
+}
+h1 {
+  font-size: 40px;
+font-family: sans-serif;
+  margin-left: 500px;
+}
+button:first-child{
+  margin:20px 0 0 400px;
+
+}
+.scegli{
+  font-size: 25px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color:white;
+  .margin-left: 200px;
+}
+
+input{
+  margin-top: 30px;
+  margin-left: 200px;
+}
+
+.arrow:after{
+  content:" \21A6";
+  color:white;
+}
+
+h3 {
+  font-size: 20px;
+  font-family:sans-serif;
+  color:white;
+  margin-left: 200px;
+}
+
+nav{
+  background: lime;
+  height: 60px;
+  margin:0 200px 0 200px;
+  border-radius: 10px 10px 10px 10px;
+}
+.rectangle1  {
+  height: 30px;
+  width: 350px;
+  background:orange;
+  margin-left: 200px;
+  border-radius: 10px 10px 10px 10px;
+
+}
+.rectangle2 {
+  height: 30px;
+  width: 600px;
+  background:limegreen;
+  margin-left: 200px;
+  border-radius: 10px 10px 10px 10px;
+
+}
+.rectangle3 {
+  height: 30px;
+  width: 150px;
+  background:red;
+  margin-left: 200px;
+  border-radius: 10px 10px 10px 10px;
+
+}
